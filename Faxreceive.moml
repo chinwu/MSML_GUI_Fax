@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moml version="1.0" id="Faxrcv" name="FaxReceive">
+<faxrcv id="fax_id" lclid="local_id">
+	<rcvobj objuri="file://testFax.tif" maxpages="1"/>	
+	<faxstart/>
+	<faxnegotiate/>
+	<faxpagedone/>
+	<faxobjectdone/>
+	<faxopcomplete/>	
+</faxrcv>
+</moml>

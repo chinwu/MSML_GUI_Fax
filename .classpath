@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sdp-1.0.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sdp-src-1.0.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-api-1.2.jar" sourcepath="C:/eclipse/jain-sip/trunk/jain-sip-api-1.2-src.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-api-1.2-src.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-ri-1.2.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-sdp-1.2.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-src-1.2.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/jain-sip-tck-1.2.2311.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/jain-sip/trunk/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

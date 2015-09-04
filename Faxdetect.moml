@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moml version="1.0" id="VoiceFaxdetect" name="CngDetect">
+<faxdetect>
+	<faxdetectexit>
+		<!--send target="source" event="terminate" namelist="faxdetect.tone faxdetect.end"/-->
+		<exit namelist="faxdetect.tone faxdetect.end"/>
+	</faxdetectexit>
+</faxdetect>
+</moml>
